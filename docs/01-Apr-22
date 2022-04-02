@@ -1,0 +1,2 @@
+Question：当确信code写的没问题，maven clean之后运行程序，出现错误‘找不到类’；但是当maven compile之后运行程序，可以正常运行程序
+Answer：可以尝试着restart IDEA，清楚缓存，重新导入程序
