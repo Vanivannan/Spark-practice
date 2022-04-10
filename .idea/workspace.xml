@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="264bcf3e-f9f2-405c-b842-b01ee649b7b6" name="Changes" comment="clean target" />
+    <list default="true" id="264bcf3e-f9f2-405c-b842-b01ee649b7b6" name="Changes" comment="clean target">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022_4_1_22_55_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022_4_1_22_55__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -252,7 +256,49 @@
       <option name="project" value="LOCAL" />
       <updated>1649306560033</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="clean target">
+      <created>1649380915048</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1649380915048</updated>
+    </task>
+    <task id="LOCAL-00025" summary="clean target">
+      <created>1649380942013</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1649380942013</updated>
+    </task>
+    <task id="LOCAL-00026" summary="clean target">
+      <created>1649380963476</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1649380963476</updated>
+    </task>
+    <task id="LOCAL-00027" summary="clean target">
+      <created>1649488517730</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1649488517730</updated>
+    </task>
+    <task id="LOCAL-00028" summary="clean target">
+      <created>1649488542320</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1649488542320</updated>
+    </task>
+    <task id="LOCAL-00029" summary="clean target">
+      <created>1649488559721</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1649488559721</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
