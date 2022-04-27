@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="264bcf3e-f9f2-405c-b842-b01ee649b7b6" name="Changes" comment="clean target">
+    <list default="true" id="264bcf3e-f9f2-405c-b842-b01ee649b7b6" name="Changes" comment="add file to git">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,12 +42,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "MavenSettings"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Code\Spark-practice" />
@@ -127,27 +128,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1648800356857</updated>
-    </task>
-    <task id="LOCAL-00026" summary="clean target">
-      <created>1649380963476</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1649380963476</updated>
-    </task>
-    <task id="LOCAL-00027" summary="clean target">
-      <created>1649488517730</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1649488517730</updated>
-    </task>
-    <task id="LOCAL-00028" summary="clean target">
-      <created>1649488542320</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1649488542320</updated>
     </task>
     <task id="LOCAL-00029" summary="clean target">
       <created>1649488559721</created>
@@ -471,7 +451,28 @@
       <option name="project" value="LOCAL" />
       <updated>1650817573965</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="clean target">
+      <created>1650950635627</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1650950635627</updated>
+    </task>
+    <task id="LOCAL-00076" summary="add file to git">
+      <created>1650950676099</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1650950676099</updated>
+    </task>
+    <task id="LOCAL-00077" summary="add file to git">
+      <created>1650950686614</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1650950686614</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -492,7 +493,8 @@
     <MESSAGE value="update config" />
     <MESSAGE value="update code" />
     <MESSAGE value="clean target" />
-    <option name="LAST_COMMIT_MESSAGE" value="clean target" />
+    <MESSAGE value="add file to git" />
+    <option name="LAST_COMMIT_MESSAGE" value="add file to git" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
