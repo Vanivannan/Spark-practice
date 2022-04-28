@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="264bcf3e-f9f2-405c-b842-b01ee649b7b6" name="Changes" comment="add file to git">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="264bcf3e-f9f2-405c-b842-b01ee649b7b6" name="Changes" comment="add file to git" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -128,27 +126,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1648800356857</updated>
-    </task>
-    <task id="LOCAL-00032" summary="clean target">
-      <created>1649559483987</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1649559483987</updated>
-    </task>
-    <task id="LOCAL-00033" summary="clean target">
-      <created>1649651891020</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1649651891020</updated>
-    </task>
-    <task id="LOCAL-00034" summary="clean target">
-      <created>1649651909753</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1649651909753</updated>
     </task>
     <task id="LOCAL-00035" summary="clean target">
       <created>1649651935286</created>
@@ -472,7 +449,28 @@
       <option name="project" value="LOCAL" />
       <updated>1651034632332</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="add file to git">
+      <created>1651109660541</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1651109660541</updated>
+    </task>
+    <task id="LOCAL-00082" summary="add file to git">
+      <created>1651109684387</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1651109684387</updated>
+    </task>
+    <task id="LOCAL-00083" summary="add file to git">
+      <created>1651109707947</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1651109707947</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
