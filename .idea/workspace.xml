@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="264bcf3e-f9f2-405c-b842-b01ee649b7b6" name="Changes" comment="update file to git">
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/spark/examples/RDDDemo01_Create$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/spark/examples/RDDDemo01_Create.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/spark/examples/RDDDemo02_Basic$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/spark/examples/RDDDemo02_Basic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/spark/examples/RDDDemo03_PartitionOperation$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/spark/examples/RDDDemo03_PartitionOperation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/spark/examples/RDDDemo04_Repartition$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/spark/examples/RDDDemo04_Repartition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/spark/examples/RDDDemo05_Aggregate_NoKey$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/spark/examples/RDDDemo05_Aggregate_NoKey.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/spark/examples/RDDDemo06_Aggregate_Key$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/spark/examples/RDDDemo06_Aggregate_Key.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/spark/examples/RDDDemo07_Join$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/spark/examples/RDDDemo07_Join.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/spark/examples/RDDDemo08_Sort$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/spark/examples/RDDDemo08_Sort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/spark/examples/RDDDemo09_Cache_Persist$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/spark/examples/RDDDemo09_Cache_Persist.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/spark/examples/RDDDemo10_Checkpoint$.class" beforeDir="false" />
-    </list>
+    <list default="true" id="264bcf3e-f9f2-405c-b842-b01ee649b7b6" name="Changes" comment="update file to git" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -146,27 +126,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1648800356857</updated>
-    </task>
-    <task id="LOCAL-00055" summary="clean target">
-      <created>1650246624651</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1650246624651</updated>
-    </task>
-    <task id="LOCAL-00056" summary="clean target">
-      <created>1650246645380</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1650246645380</updated>
-    </task>
-    <task id="LOCAL-00057" summary="clean target">
-      <created>1650352732171</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1650352732171</updated>
     </task>
     <task id="LOCAL-00058" summary="clean target">
       <created>1650352757320</created>
@@ -490,7 +449,28 @@
       <option name="project" value="LOCAL" />
       <updated>1651643018560</updated>
     </task>
-    <option name="localTasksCounter" value="104" />
+    <task id="LOCAL-00104" summary="update file to git">
+      <created>1651714849291</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1651714849291</updated>
+    </task>
+    <task id="LOCAL-00105" summary="update file to git">
+      <created>1651714875055</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1651714875055</updated>
+    </task>
+    <task id="LOCAL-00106" summary="update file to git">
+      <created>1651714884369</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1651714884369</updated>
+    </task>
+    <option name="localTasksCounter" value="107" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
