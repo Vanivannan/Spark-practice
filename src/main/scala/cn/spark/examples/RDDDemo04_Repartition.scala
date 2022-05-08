@@ -25,10 +25,6 @@ object RDDDemo04_Repartition {
     println(rdd4.getNumPartitions)
     println(rdd5.getNumPartitions)
     println(rdd6.getNumPartitions)
-//    println(rdd7.getNumPartitions)
-//    println(rdd8.getNumPartitions)
-//    println(rdd9.getNumPartitions)
-//    println(rdd10.getNumPartitions)
 
     //TODO -3.transformation
 
