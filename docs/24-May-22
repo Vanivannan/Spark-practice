@@ -1,0 +1,10 @@
+打开从别的地方得到的虚拟机，遇到了无法ping通百度的问题
+修改ifcfg-ens33
+  具体自己上网搜
+
+
+
+无法启动namenode
+删除/tmp下的.pid文件，删除hadoop中的logs文件，然后重新格式化namenode
+hadoop-daemod.sh namenode -format
+
