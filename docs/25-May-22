@@ -1,0 +1,10 @@
+编译Spark源码
+
+-1.用git下载源码，然后切换tags，
+-2.环境准备： maven， jdk
+-3.修改spark/dev/make-distr*.sh中的maven地址，将此地址修改为自己安装的路径
+
+需要把maven中修改位阿里云源，然后用下面的命令测试
+mvn -e -Pyarn -Phadoop-2.6 -Dhadoop.version=2.7.1 -Phive -Phive-thriftserver -Psparkr -DskipTests clean package
+
+
