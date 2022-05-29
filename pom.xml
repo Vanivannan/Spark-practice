@@ -21,10 +21,6 @@
             <id>cloudera</id>
             <url>https://repository.cloudera.com/artifactory/cloudera-repos/</url>
         </repository>
-<!--        <repository>-->
-<!--            <id>oschina</id>-->
-<!--            <url>http://maven.oschina.net/content/groups/public/</url>-->
-<!--        </repository>-->
         <repository>
             <id>repo1</id>
             <url>https://repo1.maven.org/maven2/</url>
