@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="264bcf3e-f9f2-405c-b842-b01ee649b7b6" name="Changes" comment="update file to git">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="264bcf3e-f9f2-405c-b842-b01ee649b7b6" name="Changes" comment="update file to git" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -131,13 +129,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1648800356857</updated>
-    </task>
-    <task id="LOCAL-00134" summary="update file to git">
-      <created>1653532533356</created>
-      <option name="number" value="00134" />
-      <option name="presentableId" value="LOCAL-00134" />
-      <option name="project" value="LOCAL" />
-      <updated>1653532533356</updated>
     </task>
     <task id="LOCAL-00135" summary="update file to git">
       <created>1653548700379</created>
@@ -475,7 +466,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656591159260</updated>
     </task>
-    <option name="localTasksCounter" value="183" />
+    <task id="LOCAL-00183" summary="update file to git">
+      <created>1656616721889</created>
+      <option name="number" value="00183" />
+      <option name="presentableId" value="LOCAL-00183" />
+      <option name="project" value="LOCAL" />
+      <updated>1656616721889</updated>
+    </task>
+    <option name="localTasksCounter" value="184" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
