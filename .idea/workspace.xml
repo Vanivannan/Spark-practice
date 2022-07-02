@@ -130,13 +130,6 @@
       <option name="presentableId" value="Default" />
       <updated>1648800356857</updated>
     </task>
-    <task id="LOCAL-00136" summary="update file to git">
-      <created>1653647787967</created>
-      <option name="number" value="00136" />
-      <option name="presentableId" value="LOCAL-00136" />
-      <option name="project" value="LOCAL" />
-      <updated>1653647787967</updated>
-    </task>
     <task id="LOCAL-00137" summary="update file to git">
       <created>1653713679795</created>
       <option name="number" value="00137" />
@@ -473,7 +466,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656653278161</updated>
     </task>
-    <option name="localTasksCounter" value="185" />
+    <task id="LOCAL-00185" summary="update file to git">
+      <created>1656731541837</created>
+      <option name="number" value="00185" />
+      <option name="presentableId" value="LOCAL-00185" />
+      <option name="project" value="LOCAL" />
+      <updated>1656731541837</updated>
+    </task>
+    <option name="localTasksCounter" value="186" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
