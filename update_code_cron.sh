@@ -9,11 +9,14 @@ echo '**********************************START***********************************
 cd ${source_path}
 echo `date`>>tip.txt
 git status
+sleep 2s
 if [ $? -eq 0 ]; then
     	echo "获取未提交代码的状态成功！！！"
 	git add --all && git commit -m "update file"
+	sleep 5s
 	echo "commit结束，开始推送代码到GitHub"
 	git pull && git push origin master
+	sleep 5s
 		if [ $? -eq 0 ]; then
     			echo "提交代码成功！！！"
    		  else
@@ -23,6 +26,7 @@ if [ $? -eq 0 ]; then
    	 echo "获取状态失败！！！"
 fi
 git stash && git pull -u origin master
+sleep 5s
 if [ $? -eq 0 ]; then
     echo "拉取最新的代码！！！"
    else
