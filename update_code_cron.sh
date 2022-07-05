@@ -10,12 +10,16 @@ cd ${source_path}
 echo `date`>>tip.txt
 git status
 if [ $? -eq 0 ]; then
-    	echo "提交代码到github"
+    	echo "获取未提交代码的状态成功！！！"
 	git add --all && git commit -m "update file"
 	git push -u origin master
-    	echo "提交代码成功！！！"
+		if [ $? -eq 0 ]; then
+    			echo "提交代码成功！！！"
+   		  else
+    			echo "提交代码失败！！！"
+   		fi
    else
-   	 echo "提交代码失败！！！"
+   	 echo "获取状态失败！！！"
 fi
 git stash && git pull -u origin master
 if [ $? -eq 0 ]; then
