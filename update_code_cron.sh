@@ -16,5 +16,5 @@ git commit -m "update file"
 git push -u origin master
 git stash
 git pull -u origin master
-git status
+echo `git status` 1>&2
 echo '***********************************END**************************************************' 1>&2
