@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="264bcf3e-f9f2-405c-b842-b01ee649b7b6" name="Changes" comment="update file to git" />
+    <list default="true" id="264bcf3e-f9f2-405c-b842-b01ee649b7b6" name="Changes" comment="update file to git">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/update_code_cron.sh" beforeDir="false" afterPath="$PROJECT_DIR$/update_code_cron.sh" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +47,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "D:/Code/studyspace",
     "project.structure.last.edited": "Artifacts",
     "project.structure.proportion": "0.15",
@@ -130,13 +134,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1648800356857</updated>
-    </task>
-    <task id="LOCAL-00141" summary="update file to git">
-      <created>1654005714539</created>
-      <option name="number" value="00141" />
-      <option name="presentableId" value="LOCAL-00141" />
-      <option name="project" value="LOCAL" />
-      <updated>1654005714539</updated>
+      <workItem from="1657028928325" duration="1760000" />
     </task>
     <task id="LOCAL-00142" summary="update file to git">
       <created>1654080047771</created>
@@ -474,8 +472,18 @@
       <option name="project" value="LOCAL" />
       <updated>1656933012495</updated>
     </task>
-    <option name="localTasksCounter" value="190" />
+    <task id="LOCAL-00190" summary="update file to git">
+      <created>1657013092126</created>
+      <option name="number" value="00190" />
+      <option name="presentableId" value="LOCAL-00190" />
+      <option name="project" value="LOCAL" />
+      <updated>1657013092127</updated>
+    </task>
+    <option name="localTasksCounter" value="191" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
