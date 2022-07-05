@@ -12,7 +12,8 @@ git status
 if [ $? -eq 0 ]; then
     	echo "获取未提交代码的状态成功！！！"
 	git add --all && git commit -m "update file"
-	git push -u origin master
+	echo "commit结束，开始推送代码到GitHub"
+	git pull && git push origin master
 		if [ $? -eq 0 ]; then
     			echo "提交代码成功！！！"
    		  else
