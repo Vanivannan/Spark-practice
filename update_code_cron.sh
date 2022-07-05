@@ -5,10 +5,10 @@ source_path=/opt/opensource/Spark-practice
 # 0,30 * * * * /bin/sh /opt/opensource/studyspace/update_code_cron.sh 2>&1 >/opt/opensource/studyspace/$(date +\%Y\%m\%d).log
 echo ''
 echo "update time: `date`"
-echo '**********************************START************************************************' 1>&2
+echo '**********************************************************************************' 1>&2
 cd ${source_path}
-echo `date`>>tip.txt
+echo "update code date is: `date`" >>tip.txt
 git add --all && git commit -m "update file"
 git push origin master
 git stash && git pull -u origin master
-echo '***********************************END**************************************************' 1>&2
+echo '**********************************************************************************' 1>&2
