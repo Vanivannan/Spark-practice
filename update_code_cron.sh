@@ -1,4 +1,5 @@
 #!/bin/sh
+set -x
 export LANG=zh_CN.UTF-8
 source_path=/opt/projects/Spark-practice
 
@@ -8,7 +9,7 @@ echo "update time: `date`"
 echo '**********************************************************************************'
 cd ${source_path}
 echo "update code date is: `date`" >>tip.txt
-git add --all && git commit -m "update file"
+git add . && git commit -m "update file"
 git push origin master
 git stash && git pull origin master
 echo '**********************************************************************************'
