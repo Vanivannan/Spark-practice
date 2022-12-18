@@ -1,0 +1,25 @@
+编译spark 3.0.0
+
+[root@centos7-tecmint ~]# java -version
+openjdk version "1.8.0_332"
+OpenJDK Runtime Environment (build 1.8.0_332-b09)
+OpenJDK 64-Bit Server VM (build 25.332-b09, mixed mode)
+[root@centos7-tecmint ~]# scala -version
+Scala code runner version 2.12.15 -- Copyright 2002-2021, LAMP/EPFL and Lightbend, Inc.
+[root@centos7-tecmint ~]# mvn -version
+Apache Maven 3.8.5 (3599d3414f046de2324203b78ddcf9b5e4388aa0)
+Maven home: /usr/maven
+Java version: 1.8.0_301, vendor: Oracle Corporation, runtime: /usr/jdk1.8.0_301/jre
+Default locale: zh_CN, platform encoding: UTF-8
+OS name: "linux", version: "3.10.0-693.el7.x86_64", arch: "amd64", family: "unix"
+
+#获取tag并切换到3.0.0
+git tag
+
+git checkout v3.0.0
+
+export MAVEN_OPTS="-Xss64m -Xmx2g -XX:ReservedCodeCacheSize=1g"
+
+./build/mvn -Phadoop-2 -Pyarn -Dhadoop.version=2.7.5 -Pyarn -Phive -Phive-thriftserver -DskipTests clean package
+
+./dev/make-distribution.sh --name hadoop-2.7.5 --tgz -Psparkr -Phadoop-2
