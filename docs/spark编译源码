@@ -16,10 +16,10 @@ OS name: "linux", version: "3.10.0-693.el7.x86_64", arch: "amd64", family: "unix
 #获取tag并切换到3.0.0
 git tag
 
-git checkout v3.0.0
+git checkout v3.3.0
 
 export MAVEN_OPTS="-Xss64m -Xmx2g -XX:ReservedCodeCacheSize=1g"
 
-./build/mvn -Phadoop-2 -Pyarn -Dhadoop.version=2.7.5 -Pyarn -Phive -Phive-thriftserver -DskipTests clean package
+./build/mvn -Phadoop-2 -Pyarn -Dhadoop.version=2.8.5 -Pyarn -Phive -Phive-thriftserver -DskipTests clean package
 
-./dev/make-distribution.sh --name hadoop-2.7.5 --tgz -Psparkr -Phadoop-2
+./dev/make-distribution.sh --name hadoop-2.8.5 --tgz -Psparkr -Phadoop-2
