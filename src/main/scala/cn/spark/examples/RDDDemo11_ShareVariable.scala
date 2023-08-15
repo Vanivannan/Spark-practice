@@ -44,5 +44,6 @@ object RDDDemo11_ShareVariable {
     sortResult2.foreach(println)
     sortResult3.foreach(println)
 
+    sc.stop()
   }
 }
